@@ -1,5 +1,5 @@
 # Name:
-Derek Borowinski's Portfolio Website
+Eye Exercise
 
 # Description
 In this project, the pair of eyes on the screen will follow the user's cursor. If the user clicks, then the eyes will blink for as long as the mouse is held down.
