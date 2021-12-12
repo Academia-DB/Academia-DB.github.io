@@ -8,7 +8,9 @@ In this project, the pair of eyes on the screen will follow the user's cursor. I
 Go to academia-db.github.io projects page and move the slideshow to "Eye Exercise" and click browser or download zip file and put either index.html into the browser.
 
 # Roadmap
-Adding files from the course over the period of the semester
+Currently the eyes are able to blink, possible updates 
+- Have the eyes go back to the center if the mouse leaves the window
+- Button to add/remove more eyes
 
 # License information
 Copyright (c) 2012-2021 Scott Chacon and others
