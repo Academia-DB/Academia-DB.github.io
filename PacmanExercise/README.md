@@ -1,5 +1,5 @@
 # Name:
-Pacman Exercise
+Pacmen Exercise
 
 # Description
 In this project, a button can be used to place various pacmen on the screen and have them bounce around. Currently, they are animated and are resetable.
