@@ -4,7 +4,7 @@ Derek Borowinski's Portfolio Website
 # Description
 This is a project space for Professional Certificate in Coding: Full Stack Development with MERN - September 2021. This is my website portfolio where finished files will be added with their own folders.
 
-#How to Run
+# How to Run
 Go to academia-db.github.io or download zip file and put either index.html or projects.html into the browser.
 
 # Roadmap
